@@ -164,37 +164,46 @@ A personal portfolio showcasing my projects, skills and software development jou
 
 ---
 
-# 📊 GitHub Statistics
+
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohitsharma099999-tech&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohitsharma099999-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharma099999-tech&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharma099999-tech&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mohitsharma099999-tech&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mohitsharma099999-tech&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com/?user=mohitsharma099999-tech&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
+## 📈 Coding Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitsharma099999-tech&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitsharma099999-tech&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
----
 
 # 🧠 My Development Focus
 
