@@ -1,41 +1,113 @@
 <div align="center">
   <img align="right" width="220" src="./assets/profile.png" alt="Mohit Sharma" style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 0 25px #00d4ff;" />
 
-  <h1>Hi, I'm Mohit Sharma 👋</h1>
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+    Hi, I'm <span style="color:#00d4ff;">Mohit Sharma</span> 👨‍💻
+  </h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;React.js+Enthusiast;Java+Developer;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;React.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Java+Developer+%E2%98%95;Problem+Solver+%F0%9F%A7%A0;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=mohitsharma099999-tech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mohitsharma099999-tech&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mohitsharma099999-tech?label=Followers&style=for-the-badge&color=00d4ff" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-00d4ff?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack-9b59b6?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-India-ff9800?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4caf50?style=for-the-badge" alt="Status" />
+
+  <br/><br/>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
 
 </div>
 
 <br clear="both"/>
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ## 🚀 About Me
 
-I'm a **Software Engineer / Web Developer** passionate about building practical software and solving real-world problems.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a **Software Engineer / Web Developer** passionate about building practical software and solving real-world problems. I love turning ideas into clean, functional, and user-friendly applications.
 
-- 💻 Building modern, responsive web applications
-- ⚛️ Working with **JavaScript** and **React.js**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 What I Do
+- 🏗️ Building modern, responsive web applications
+- ⚛️ Working with **JavaScript** & **React.js**
 - ☕ Developing applications with **Java**
+- 🔌 Designing & integrating **REST APIs**
+- 🎨 Creating clean, pixel-perfect UI/UX
+- 🗄️ Working with **MongoDB**, **MySQL** & **PostgreSQL**
+- 🧩 Writing reusable, maintainable components
+- ⚡ Optimizing apps for speed & performance
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 What I'm Sharpening
 - 🧠 Practicing **Data Structures & Algorithms**
-- 🔌 Integrating **REST APIs**
-- 🔐 Exploring **Cybersecurity** and secure development
-- 🌱 Continuously learning new technologies
-- 🎯 Focused on becoming a strong **Full-Stack Developer**
+- 🔐 Exploring **Cybersecurity** & secure coding
+- 🏛️ Strengthening **System Design** fundamentals
+- 🌐 Deepening **Full-Stack** development skills
+- 📖 Learning **Advanced JavaScript** patterns
+- ☕ Mastering **Java backend** development
+- 🐳 Getting comfortable with **Docker** & **CI/CD**
+- 🧪 Writing better, more reliable tests
+
+</td>
+</tr>
+</table>
+
+### 🌱 My Mindset
+
+- 🚀 **Builder at heart** — I learn best by building real projects
+- 🎯 **Goal-driven** — Focused on becoming a strong Full-Stack Developer
+- 🔍 **Curious** — Always exploring new technologies and tools
+- 🧩 **Problem solver** — I enjoy breaking down complex problems
+- 📈 **Growth mindset** — Every bug is a lesson in disguise
+- 🤝 **Team player** — I value clean code & clear communication
+- ⏳ **Consistent** — Small daily progress compounds into big results
+- 💡 **Detail-oriented** — I care about the little things that matter
+
+### ⚡ Quick Facts
+
+<div align="center">
+
+| 🏷️ | 📌 |
+|-----|-----|
+| 🌍 **Location** | India 🇮🇳 |
+| 💼 **Role** | Software Engineer / Web Developer |
+| 🎯 **Focus** | Full-Stack Development |
+| ☕ **Fuel** | Coffee + Curiosity |
+| 🎧 **While Coding** | Lo-fi beats & silence |
+| 🌙 **Best Time** | Late nights 🌃 |
+| 📚 **Currently Reading** | Docs, docs & more docs |
+| 🎮 **When Not Coding** | Exploring tech, gaming, learning |
+
+</div>
+
+### 💬 A Line I Live By
+
+<div align="center">
+
+> 🌟 *"First, solve the problem. Then, write the code."* 🌟
+
+</div>
 
 <br clear="both"/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
+
 ---
 
-## 🛠️ Technical Skills
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <span style="color:#00d4ff;">Technical Skills</span>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
 
 <div align="center">
 
@@ -84,64 +156,68 @@ I'm a **Software Engineer / Web Developer** passionate about building practical 
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohitsharma099999-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharma099999-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsharma099999-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohitsharma099999-tech&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitsharma099999-tech&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+  <span style="color:#ff69b4;">Featured Projects</span>
+</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohitsharma099999-tech/mohitsharma099999-tech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🌟 Featured Projects
+<h3 align="center">📋 Task Manager</h3>
 
-### 📋 Task Manager
-A responsive task-management application designed to help users organize and manage tasks efficiently.
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="150">
+</p>
+
+A responsive task-management app to organize and manage tasks efficiently.
 
 **Tech:** `HTML5` `CSS3` `JavaScript` `REST API`
 
-- ✅ Task creation and management
+- ✅ Task creation & management
 - 🔎 Task filtering
 - 💾 Persistent data
 - 🧩 Reusable components
 - 📱 Responsive interface
 
-### 🌦️ Weather Dashboard
-A responsive weather application that consumes a public weather API to provide weather information.
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌦️ Weather Dashboard</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2WJsMKv4g0NsLe/giphy.gif" width="150">
+</p>
+
+A responsive weather app consuming a public weather API.
 
 **Tech:** `JavaScript` `HTML5` `CSS3` `REST API`
 
 - 🌍 Search weather by location
-- 🌡️ Current weather information
-- 📊 Weather data presentation
+- 🌡️ Current weather info
+- 📊 Data presentation
 - ⚠️ API error handling
-- 📱 Responsive design
-- ⚡ Async/Await API integration
+- ⚡ Async/Await integration
 
-### 💰 Expense Tracker
-A browser-based application for managing personal income and expenses.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">💰 Expense Tracker</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="150">
+</p>
+
+A browser-based app for managing personal income and expenses.
 
 **Tech:** `JavaScript` `HTML5` `CSS3` `LocalStorage`
 
@@ -149,53 +225,132 @@ A browser-based application for managing personal income and expenses.
 - 💸 Expense tracking
 - 🏷️ Categories
 - 📅 Date filtering
-- 📊 Monthly summaries
 - 💾 LocalStorage persistence
 
-### 🌐 Portfolio Website
-A personal portfolio website showcasing my projects, technical skills and development journey.
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Portfolio Website</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa24xMndtNG10Z3IxNXI4OHVrMWxjaXFncmUwYml2eHBvaHg3djY0byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="150">
+</p>
+
+A personal portfolio website showcasing my projects and journey.
 
 **Tech:** `HTML` `CSS` `JavaScript`
 
----
+- 🎨 Modern UI
+- 📱 Fully responsive
+- 🚀 Fast loading
+- 🌈 Smooth animations
+- 📂 Project showcase
 
-## 📚 Currently Learning
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Build production-ready web applications
-- ⚛️ Become highly proficient in React.js
-- ☕ Strengthen Java backend development
-- 🧠 Master Data Structures & Algorithms
-- 🔐 Improve application-security knowledge
-- 🌎 Contribute to open-source projects
-- 💼 Grow as a Software Engineer
-
----
-
-## 💡 My Development Philosophy
-
-<div align="center">
-
-### **Learn → Build → Test → Improve → Repeat**
+</td>
+</tr>
+</table>
 
 </div>
 
-I believe the best way to learn software development is to build real projects, solve problems and continuously improve the code.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
 
 ---
 
-## 🤝 Let's Connect
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvdTUzb29wNHMxY3VyZTJ4ZjBieTU3ODQ4dDQ4dTVobmVubXAzOCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="35">
+  <span style="color:#00d4ff;">Currently Learning</span>
+</h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
+
+
+<br/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvdTUzb29wNHMxY3VyZTJ4ZjBieTU3ODQ4dDQ4dTVobmVubXAzOCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="35">
+  <span style="color:#9b59b6;">2026 Goals</span>
+</h2>
+
+<div align="center">
+
+| 🎯 Goal | 📌 Status |
+|---------|-----------|
+| 🚀 Build production-ready web applications | 🟢 In Progress |
+| ⚛️ Become highly proficient in React.js | 🟢 In Progress |
+| ☕ Strengthen Java backend development | 🟢 In Progress |
+| 🧠 Master Data Structures & Algorithms | 🟢 In Progress |
+| 🔐 Improve application-security knowledge | 🟢 In Progress |
+| 🌎 Contribute to open-source projects | 🟡 Upcoming |
+| 💼 Grow as a Software Engineer | 🔵 Ongoing |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="35">
+  <span style="color:#ff9800;">My Development Philosophy</span>
+</h2>
+
+<div align="center">
+
+### 🌟 **Learn → Build → Test → Improve → Repeat** 🌟
+
+</div>
+
+> I believe the best way to learn software development is to build real projects, solve problems and continuously improve the code. Every project — big or small — teaches something new, and every bug is a chance to get better.
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35">
+  <span style="color:#00d4ff;">Let's Connect</span>
+</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohit-sharma-b58281435/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:mohitsharma099999@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://mohitsharma099999-tech.github.io/protfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://leetcode.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+
+<br/>
+
+💬 **Feel free to reach out — I'm always open to collaborating on interesting projects!**
 
 </div>
 
@@ -203,11 +358,12 @@ I believe the best way to learn software development is to build real projects, 
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 👨‍💻 **Thanks for visiting my profile!** 👨‍💻
 
-**Code. Learn. Build. Improve.**
+**💻 Code. Learn. Build. Improve. 💻**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling" width="100%"/>
 
 </div>
-
