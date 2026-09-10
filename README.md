@@ -1,142 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohit%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-</div>
-
-<table>
-<tr>
-
-<td width="65%" valign="middle">
-
-# 👋 Hi, I'm **Mohit Sharma**
+# 👋 Hi, I'm Mohit Sharma
 
 ### 💻 Software Engineer | Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=false&vCenter=true&width=600&lines=Building+modern+web+applications;JavaScript+%7C+React.js+%7C+Java+%7C+C%2B%2B;Learning+DSA+%26+Full+Stack+Development;Turning+ideas+into+working+software" />
+<p>
+Building clean, responsive and user-focused web applications.
+</p>
 
-I'm a software developer passionate about building **clean, responsive and user-focused applications**.
-
-I enjoy solving problems, learning new technologies and turning ideas into practical software.
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://github.com/mohitsharma099999-tech.png" width="230" style="border-radius:50%"/>
+<a href="https://github.com/mohitsharma099999-tech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="https://mohitsharma099999-tech.github.io/protfolio/">
+<img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=mohitsharma099999-tech&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineer;Web+Developer;JavaScript+%7C+React.js+%7C+Java+%7C+C%2B%2B;Building+Modern+Web+Applications;Learning+DSA+%26+Full-Stack+Development">
 
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-```text
-💻 Software Engineer / Web Developer
-⚛️ Building applications with JavaScript & React
-☕ Developing with Java
-🧠 Practicing Data Structures & Algorithms
-🔌 Working with REST APIs
-🔐 Interested in Cybersecurity
-🌱 Continuously learning and improving
-🎯 Goal: Build production-ready software
-```
+I'm a **Software Engineer / Web Developer** interested in building practical software and solving real-world problems.
+
+* 💻 Building modern web applications
+* ⚛️ Working with JavaScript and React.js
+* ☕ Developing applications with Java
+* 🧠 Practicing Data Structures & Algorithms
+* 🔌 Working with REST APIs
+* 🔐 Exploring Cybersecurity and secure development
+* 🌱 Continuously learning new technologies
+* 🎯 Focused on becoming a strong full-stack developer
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=javascript,java,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=javascript,java,cpp,html,css" height="50">
 </p>
 
-### ⚛️ Frameworks & Development
+### ⚛️ Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nodejs" height="50">
 </p>
 
-### 🔧 Tools & Technologies
+### 🗄️ Database & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash,postman,npm" />
+<img src="https://skillicons.dev/icons?i=mysql,postman" height="50">
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash,npm" height="50">
 </p>
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-<table>
-<tr>
+### 📋 Task Manager
 
-<td width="50%" valign="top">
+A responsive task-management application designed to help users organize and manage tasks efficiently.
 
-## 📋 Task Manager
+**Tech:** `HTML5` `CSS3` `JavaScript` `REST API`
 
-A responsive task-management application designed to organize and manage tasks efficiently.
+**Highlights**
 
-**Tech Stack**
-
-`HTML5` `CSS3` `JavaScript` `REST API`
-
-### Features
-
-* ✅ Task management
-* 🔎 Filtering
-* 💾 Persistence
+* ✅ Task creation and management
+* 🔎 Task filtering
+* 💾 Persistent data
 * 🧩 Reusable components
-* 📱 Responsive UI
+* 📱 Responsive interface
 
 <a href="https://github.com/mohitsharma099999-tech/taskmanager">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
 </a>
 
-</td>
+---
 
-<td width="50%" valign="top">
+### 🌦️ Weather Dashboard
 
-## 🌦️ Weather Dashboard
+A responsive weather application that consumes a public weather API to provide weather information.
 
-A responsive weather application consuming a public weather API.
+**Tech:** `JavaScript` `HTML5` `CSS3` `REST API`
 
-**Tech Stack**
+**Highlights**
 
-`JavaScript` `HTML5` `CSS3` `REST API`
-
-### Features
-
-* 🌡️ Current weather
-* 🌍 Location search
-* 📊 Weather information
+* 🌍 Search weather by location
+* 🌡️ Current weather information
+* 📊 Weather data presentation
 * ⚠️ API error handling
 * 📱 Responsive design
+* ⚡ Async/Await API integration
 
-</td>
+---
 
-</tr>
+### 💰 Expense Tracker
 
-<tr>
+A browser-based application for managing personal income and expenses.
 
-<td width="50%" valign="top">
+**Tech:** `JavaScript` `HTML5` `CSS3` `LocalStorage`
 
-## 💰 Expense Tracker
-
-A browser-based personal finance application for tracking income and expenses.
-
-**Tech Stack**
-
-`JavaScript` `HTML5` `CSS3` `LocalStorage`
-
-### Features
+**Highlights**
 
 * 💵 Income tracking
 * 💸 Expense tracking
@@ -145,115 +121,71 @@ A browser-based personal finance application for tracking income and expenses.
 * 📊 Monthly summaries
 * 💾 LocalStorage persistence
 
-</td>
+---
 
-<td width="50%" valign="top">
+### 🌐 Portfolio Website
 
-## 🌐 Portfolio Website
+A personal portfolio website showcasing my projects, technical skills and development journey.
 
-A personal portfolio showcasing my projects, skills and software development journey.
+**Tech:** `HTML` `CSS` `JavaScript`
 
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-</tr>
-</table>
+<a href="https://mohitsharma099999-tech.github.io/protfolio/">
+<img src="https://img.shields.io/badge/Visit%20Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome">
+</a>
 
 ---
 
+## 🧠 What I'm Working On
 
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohitsharma099999-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharma099999-tech&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mohitsharma099999-tech&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=mohitsharma099999-tech&theme=tokyonight&hide_border=true" width="70%" />
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitsharma099999-tech&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
-
-
-# 🧠 My Development Focus
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="25%">
+<td width="50%">
 
-### ⚛️
+### ⚛️ Frontend Development
 
-**Frontend**
-
-React
-JavaScript
-HTML/CSS
-
-</td>
-
-<td align="center" width="25%">
-
-### ☕
-
-**Backend**
-
-Java
-REST APIs
-Databases
+* JavaScript
+* React.js
+* Responsive UI
+* API Integration
+* Modern Web Development
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%">
 
-### 🧠
+### ☕ Backend Development
 
-**Problem Solving**
+* Java
+* REST APIs
+* Database Development
+* Backend Architecture
+* Full-Stack Applications
 
-C++
-DSA
-Algorithms
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Problem Solving
+
+* C++
+* Data Structures
+* Algorithms
+* Competitive Programming
+* Clean Code
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%">
 
-### 🔐
+### 🔐 Security
 
-**Security**
-
-Cybersecurity
-Web Security
-Secure Coding
+* Web Security
+* Cybersecurity
+* Secure Coding
+* Application Security
+* Security Research
 
 </td>
 </tr>
@@ -261,11 +193,29 @@ Secure Coding
 
 ---
 
-# 🎯 2026 Goals
+## 📚 Currently Learning
+
+```text
+React.js
+   ↓
+Advanced JavaScript
+   ↓
+Data Structures & Algorithms
+   ↓
+Java Backend Development
+   ↓
+REST APIs
+   ↓
+Full-Stack Development
+```
+
+---
+
+## 🎯 2026 Goals
 
 * 🚀 Build production-ready web applications
-* ⚛️ Become stronger with React.js
-* ☕ Improve Java backend development
+* ⚛️ Become highly proficient in React.js
+* ☕ Strengthen Java backend development
 * 🧠 Master Data Structures & Algorithms
 * 🔐 Improve application-security knowledge
 * 🌎 Contribute to open-source projects
@@ -273,58 +223,36 @@ Secure Coding
 
 ---
 
-# 📚 Currently Learning
+## 💡 My Development Philosophy
 
-```text
-React.js
-    ↓
-Advanced JavaScript
-    ↓
-Data Structures & Algorithms
-    ↓
-Java Backend Development
-    ↓
-REST APIs
-    ↓
-Full-Stack Development
-```
+> **Learn → Build → Test → Improve → Repeat**
+
+I believe the best way to learn software development is to **build real projects, solve problems and continuously improve the code**.
 
 ---
 
-# 🏆 GitHub Profile
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohitsharma099999-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%" />
-
-</div>
-
----
-
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/mohitsharma099999-tech">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GitHub-Mohit%20Sharma-181717?style=for-the-badge&logo=github">
 </a>
 
+ 
+
 <a href="https://mohitsharma099999-tech.github.io/protfolio/">
-
-<img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A0A0A?style=for-the-badge&logo=google-chrome">
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💡 Code. Learn. Build. Improve.
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+**Code. Learn. Build. Improve.**
 
 </div>
