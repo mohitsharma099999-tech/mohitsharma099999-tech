@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a **Software Engineer / Web Developer** passionate about building practical software and solving real-world problems. I love turning ideas into clean, functional, and user-friendly applications.
+ I'm a **Software Engineer / Web Developer** passionate about building practical software and solving real-world problems. I love turning ideas into clean, functional, and user-friendly applications.
 
 <table>
 <tr>
