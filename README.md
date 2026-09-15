@@ -467,7 +467,7 @@ alt="Animated divider"
 ---
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="35">
+ 
   <span style="color:#ff9800;">My Development Philosophy</span>
 </h2>
 
