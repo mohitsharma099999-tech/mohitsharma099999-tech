@@ -169,90 +169,258 @@
 
 <table>
 <tr>
+
+<!-- WEBINTEL -->
+
 <td width="50%" valign="top">
 
-<h3 align="center">📋 Task Manager</h3>
+<h3 align="center">🧠 WebIntel</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="150">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/213760734-69f2a2f8-3b0e-4e3b-8b7a-8c3f7e8d8c5e.gif"
+    width="180"
+    alt="Web intelligence animation"
+  />
 </p>
 
-A responsive task-management app to organize and manage tasks efficiently.
+<p>
+<b>AI-Powered Web Intelligence & Monitoring Platform</b>
+</p>
 
-**Tech:** `HTML5` `CSS3` `JavaScript` `REST API`
+<p>
+A production-style web intelligence platform designed to continuously
+collect, process, monitor and analyze information from websites.
+It combines scalable web scraping, browser automation, API services,
+background workers, persistent storage and change detection into
+a unified data pipeline.
+</p>
 
-- ✅ Task creation & management
-- 🔎 Task filtering
-- 💾 Persistent data
-- 🧩 Reusable components
-- 📱 Responsive interface
+<b>⚙️ Architecture</b>
+
+<ul>
+  <li>🕷️ Automated web data collection</li>
+  <li>🌐 Browser automation with Playwright</li>
+  <li>🔎 Web crawling and extraction with Scrapy</li>
+  <li>⚡ FastAPI service layer</li>
+  <li>🔄 Celery background task processing</li>
+  <li>⚡ Redis for messaging and caching</li>
+  <li>🗄️ PostgreSQL for persistent storage</li>
+  <li>🐳 Docker-based deployment</li>
+  <li>🤖 Optional AI/LLM extraction layer</li>
+</ul>
+
+<b>🛠️ Tech Stack</b>
+
+<p>
+  <code>Python</code>
+  <code>Scrapy</code>
+  <code>Playwright</code>
+  <code>FastAPI</code>
+  <code>PostgreSQL</code>
+  <code>Redis</code>
+  <code>Celery</code>
+  <code>Docker</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohitsharma099999-tech/WebIntel-AI-Powered-Web-Intelligence-Monitoring-Platform">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 </td>
+
+<!-- WORLD NEWS -->
+
 <td width="50%" valign="top">
 
-<h3 align="center">🌦️ Weather Dashboard</h3>
+<h3 align="center">🌍 WORLD-NEWS</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2WJsMKv4g0NsLe/giphy.gif" width="150">
+  <img
+    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+    width="180"
+    alt="News and data animation"
+  />
 </p>
 
-A responsive weather app consuming a public weather API.
+<p>
+<b>Automated World News Aggregation Platform</b>
+</p>
 
-**Tech:** `JavaScript` `HTML5` `CSS3` `REST API`
+<p>
+A Python-based news aggregation project that automates the collection
+and processing of articles from online sources. The system focuses on
+web data extraction, content parsing, structured processing and
+organizing information into a usable news dataset.
+</p>
 
-- 🌍 Search weather by location
-- 🌡️ Current weather info
-- 📊 Data presentation
-- ⚠️ API error handling
-- ⚡ Async/Await integration
+<b>⚙️ Key Features</b>
+
+<ul>
+  <li>🌐 Automated article collection</li>
+  <li>📰 News source processing</li>
+  <li>🔎 Content extraction and parsing</li>
+  <li>🧹 Data cleaning and organization</li>
+  <li>⚡ Automated processing workflow</li>
+  <li>📊 Structured news data</li>
+  <li>🔄 Designed for repeatable data collection</li>
+</ul>
+
+<b>🛠️ Tech Stack</b>
+
+<p>
+  <code>Python</code>
+  <code>Web Scraping</code>
+  <code>HTTP</code>
+  <code>Automation</code>
+  <code>Data Processing</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohitsharma099999-tech/WORLD-NEWS">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 </td>
+
 </tr>
+
 <tr>
+
+<!-- PROXYHUNTER -->
+
 <td width="50%" valign="top">
 
-<h3 align="center">💰 Expense Tracker</h3>
+<h3 align="center">🌐 ProxyHunter</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="150">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212257466-450a5b2b-1e0c-4d2d-bd6f-7d7e7f3d6f6e.gif"
+    width="180"
+    alt="Networking animation"
+  />
 </p>
 
-A browser-based app for managing personal income and expenses.
+<p>
+<b>Proxy Discovery & Validation Tool</b>
+</p>
 
-**Tech:** `JavaScript` `HTML5` `CSS3` `LocalStorage`
+<p>
+A Python command-line networking utility focused on discovering and
+validating publicly reachable proxy endpoints. The project automates
+proxy discovery and connectivity testing while providing a structured
+workflow for analyzing network endpoints.
+</p>
 
-- 💵 Income tracking
-- 💸 Expense tracking
-- 🏷️ Categories
-- 📅 Date filtering
-- 💾 LocalStorage persistence
+<b>⚙️ Key Features</b>
+
+<ul>
+  <li>🔎 Proxy discovery</li>
+  <li>🌐 Network endpoint validation</li>
+  <li>🔌 Socket-based connectivity testing</li>
+  <li>⚡ Automated proxy checking</li>
+  <li>📡 HTTP proxy support</li>
+  <li>🧩 SOCKS proxy handling</li>
+  <li>💻 Command-line workflow</li>
+</ul>
+
+<b>🛠️ Tech Stack</b>
+
+<p>
+  <code>Python</code>
+  <code>Networking</code>
+  <code>Sockets</code>
+  <code>HTTP</code>
+  <code>SOCKS</code>
+  <code>CLI</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohitsharma099999-tech/proxyhunter">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 </td>
+
+<!-- FILE INTEGRITY MONITOR -->
+
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 Portfolio Website</h3>
+<h3 align="center">🛡️ File Integrity Monitor</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa24xMndtNG10Z3IxNXI4OHVrMWxjaXFncmUwYml2eHBvaHg3djY0byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="150">
+  <img
+    src="https://media.giphy.com/media/3oKIPjzfv0sI2p7fK8/giphy.gif"
+    width="180"
+    alt="Cybersecurity monitoring animation"
+  />
 </p>
 
-A personal portfolio website showcasing my projects and journey.
+<p>
+<b>Defensive File Integrity Monitoring System</b>
+</p>
 
-**Tech:** `HTML` `CSS` `JavaScript`
+<p>
+A Python-based defensive security tool that monitors files and detects
+integrity violations by comparing current cryptographic hashes against
+a trusted baseline. It can identify file modifications, additions and
+deletions and provides a practical foundation for filesystem security
+monitoring.
+</p>
 
-- 🎨 Modern UI
-- 📱 Fully responsive
-- 🚀 Fast loading
-- 🌈 Smooth animations
-- 📂 Project showcase
+<b>⚙️ Key Features</b>
+
+<ul>
+  <li>🔐 Cryptographic file hashing</li>
+  <li>📋 Baseline integrity tracking</li>
+  <li>📝 File modification detection</li>
+  <li>➕ New file detection</li>
+  <li>➖ Deleted file detection</li>
+  <li>📊 Integrity comparison</li>
+  <li>🐧 Linux-friendly security workflow</li>
+  <li>🛡️ Defensive security monitoring</li>
+</ul>
+
+<b>🛠️ Tech Stack</b>
+
+<p>
+  <code>Python</code>
+  <code>Linux</code>
+  <code>SHA-256</code>
+  <code>File Monitoring</code>
+  <code>Cybersecurity</code>
+  <code>Logging</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohitsharma099999-tech/file-integrity-monitor">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 </td>
+
 </tr>
 </table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
+<br/>
+
+<div align="center">
+
+<img
+src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+width="100%"
+height="3px"
+alt="Animated divider"
+/>
+
+</div>
 
 ---
 
