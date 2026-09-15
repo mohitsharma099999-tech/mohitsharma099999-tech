@@ -32,7 +32,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top"> 
 
 ### 💻 What I Do
 - 🏗️ Building modern, responsive web applications
