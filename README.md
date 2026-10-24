@@ -1,524 +1,382 @@
-<div align="center">
-  <img align="right" width="220" src="./assets/profile.png" alt="Mohit Sharma" style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 0 25px #00d4ff;" />
+ <div align="center">
+  <img align="right" width="200" src="./assets/profile.png" alt="Mohit Sharma" />
 
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-    Hi, I'm <span style="color:#00d4ff;">Mohit Sharma</span> 👨‍💻
-  </h1>
+  <h1>Hi, I'm Mohit Sharma 👨‍💻</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;React.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Java+Developer+%E2%98%95;Problem+Solver+%F0%9F%A7%A0;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Python+%26+C%2B%2B+Developer;Data+Structures+%26+Algorithms;Competitive+Programming;Algorithm+Optimization;Linux+%26+Systems+Programming;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=mohitsharma099999-tech&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mohitsharma099999-tech?label=Followers&style=for-the-badge&color=00d4ff" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-9b59b6?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-India-ff9800?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4caf50?style=for-the-badge" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=mohitsharma099999-tech&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mohitsharma099999-tech?label=Followers&style=for-the-badge&color=181717" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Algorithms-00599C?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge" alt="Open to Work" />
 
   <br/><br/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" alt="Divider" />
 </div>
 
 <br clear="both"/>
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" alt="Coding Animation" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ## 🚀 About Me
 
- I'm a **Software Engineer / Web Developer** passionate about building practical software and solving real-world problems. I love turning ideas into clean, functional, and user-friendly applications.
+I'm a **Python and C++ Developer** passionate about Data Structures and Algorithms, competitive programming, algorithm optimization, and Linux-based development.
+
+I enjoy breaking down complex problems, analyzing algorithmic trade-offs, and writing efficient, maintainable code. My approach combines mathematical reasoning, computational thinking, and practical programming to develop reliable software solutions.
+
+- 💻 **Languages:** C++, Python, C, JavaScript and SQL
+- 🧠 **Core Focus:** Data Structures, Algorithms and Problem-Solving
+- ⚡ **Optimization:** Time complexity, space complexity and efficient algorithms
+- 🐧 **Environment:** Linux, Bash and command-line development
+- 📐 **Mathematics:** Discrete mathematics, logic and algorithmic reasoning
+- 🛠️ **Development:** Debugging, testing, scripting and automation
+- 🎯 **Career Goal:** Software Development Engineer opportunities
+- 🌱 **Mindset:** Learn deeply, build consistently and improve continuously
+
+## 🧠 What I Work On
 
 <table>
 <tr>
-<td width="50%" valign="top"> 
+<td width="50%" valign="top">
 
-### 💻 What I Do
-- 🏗️ Building modern, responsive web applications
-- ⚛️ Working with **JavaScript** & **React.js**
-- ☕ Developing applications with **Java**
-- 🔌 Designing & integrating **REST APIs**
-- 🎨 Creating clean, pixel-perfect UI/UX
-- 🗄️ Working with **MongoDB**, **MySQL** & **PostgreSQL**
-- 🧩 Writing reusable, maintainable components
-- ⚡ Optimizing apps for speed & performance
+### 💻 C++ Development
+
+- Data Structures and Algorithms
+- STL: vectors, maps, sets, stacks and queues
+- Sorting and searching algorithms
+- Recursion, backtracking and dynamic programming
+- Trees, graphs, BFS and DFS
+- Greedy algorithms and binary search
+- Complexity analysis and code optimization
+- Object-Oriented Programming
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 What I'm Sharpening
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🔐 Exploring **Cybersecurity** & secure coding
-- 🏛️ Strengthening **System Design** fundamentals
-- 🌐 Deepening **Full-Stack** development skills
-- 📖 Learning **Advanced JavaScript** patterns
-- ☕ Mastering **Java backend** development
-- 🐳 Getting comfortable with **Docker** & **CI/CD**
-- 🧪 Writing better, more reliable tests
+### 🐍 Python Development
+
+- Problem-solving and algorithm implementation
+- Automation and command-line tools
+- File handling and data processing
+- HTTP requests and API integration
+- Web scraping and structured data extraction
+- Modular, reusable Python code
+- Debugging, testing and exception handling
+- Scripting for Linux environments
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐧 Linux & Systems
+
+- Linux command-line workflows
+- Bash and shell scripting
+- Processes, files and permissions
+- Networking fundamentals
+- Environment and package management
+- Git-based development workflows
+- System utilities and automation
+- Resource-conscious development
+
+</td>
+<td width="50%" valign="top">
+
+### 📐 Algorithmic Thinking
+
+- Time and space complexity analysis
+- Mathematical problem-solving
+- Dynamic programming
+- Graph algorithms
+- Greedy strategies
+- Binary search on answers
+- Edge-case analysis
+- Performance profiling and optimization
 
 </td>
 </tr>
 </table>
 
-### 🌱 My Mindset
+## 🎯 My Development Philosophy
 
-- 🚀 **Builder at heart** — I learn best by building real projects
-- 🎯 **Goal-driven** — Focused on becoming a strong Full-Stack Developer
-- 🔍 **Curious** — Always exploring new technologies and tools
-- 🧩 **Problem solver** — I enjoy breaking down complex problems
-- 📈 **Growth mindset** — Every bug is a lesson in disguise
-- 🤝 **Team player** — I value clean code & clear communication
-- ⏳ **Consistent** — Small daily progress compounds into big results
-- 💡 **Detail-oriented** — I care about the little things that matter
+> First understand the problem, then design the algorithm, analyze its complexity, implement the solution, and optimize where necessary.
 
-### ⚡ Quick Facts
+I believe strong software engineering comes from understanding how and why a solution works—not just making the code compile.
 
-<div align="center">
-
-| 🏷️ | 📌 |
-|-----|-----|
-| 🌍 **Location** | India 🇮🇳 |
-| 💼 **Role** | Software Engineer / Web Developer |
-| 🎯 **Focus** | Full-Stack Development |
-| ☕ **Fuel** | Coffee + Curiosity |
-| 🎧 **While Coding** | Lo-fi beats & silence |
-| 🌙 **Best Time** | Late nights 🌃 |
-| 📚 **Currently Reading** | Docs, docs & more docs |
-| 🎮 **When Not Coding** | Exploring tech, gaming, learning |
-
-</div>
-
-### 💬 A Line I Live By
-
-<div align="center">
-
-> 🌟 *"First, solve the problem. Then, write the code."* 🌟
-
-</div>
-
-<br clear="both"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
+**Analyze → Design → Implement → Test → Optimize**
 
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  <span style="color:#00d4ff;">Technical Skills</span>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</h2>
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### 💻 Programming Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚛️ Frontend Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### 🧠 Data Structures & Algorithms
 
-### ☕ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![DSA](https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-6A5ACD?style=for-the-badge)
+![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-8A2BE2?style=for-the-badge)
+![Graph Algorithms](https://img.shields.io/badge/Graph_Algorithms-008080?style=for-the-badge)
+![Complexity Analysis](https://img.shields.io/badge/Complexity_Analysis-FF8C00?style=for-the-badge)
+![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-2E8B57?style=for-the-badge)
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🐧 Linux & Development Tools
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 🧠 Core Concepts
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?style=for-the-badge)
+### 🐍 Python Ecosystem
+
+![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)
+![Asyncio](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 📚 Computer Science Fundamentals
+
 ![OOP](https://img.shields.io/badge/Object_Oriented_Programming-FF6B6B?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_APIs-25A162?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-4682B4?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-20B2AA?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-6A5ACD?style=for-the-badge)
+![Discrete Mathematics](https://img.shields.io/badge/Discrete_Mathematics-FF9800?style=for-the-badge)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
-
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
-  <span style="color:#ff69b4;">Featured Projects</span>
-</h2>
+## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-
-<!-- WEBINTEL -->
-
 <td width="50%" valign="top">
 
 <h3 align="center">🧠 WebIntel</h3>
 
 <p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/213760734-69f2a2f8-3b0e-4e3b-8b7a-8c3f7e8d8c5e.gif"
-    width="180"
-    alt="Web intelligence animation"
-  />
+  <img src="https://user-images.githubusercontent.com/74038190/213760734-69f2a2f8-3b0e-4e3b-8b7a-8c3f7e8d8c5e.gif" width="150" alt="WebIntel animation" />
 </p>
 
-<p>
-<b>AI-Powered Web Intelligence & Monitoring Platform</b>
-</p>
+**AI-Powered Web Intelligence & Monitoring Platform**
 
-<p>
-A production-style web intelligence platform designed to continuously
-collect, process, monitor and analyze information from websites.
-It combines scalable web scraping, browser automation, API services,
-background workers, persistent storage and change detection into
-a unified data pipeline.
-</p>
+A Python-based platform designed to collect, process, monitor and analyze web data using crawling, browser automation, background jobs and persistent storage.
 
-<b>⚙️ Architecture</b>
+**Key Components**
+- Automated web crawling and extraction
+- Browser automation with Playwright
+- FastAPI service layer
+- Asynchronous task processing
+- Redis and PostgreSQL integration
+- Docker-based deployment
 
-<ul>
-  <li>🕷️ Automated web data collection</li>
-  <li>🌐 Browser automation with Playwright</li>
-  <li>🔎 Web crawling and extraction with Scrapy</li>
-  <li>⚡ FastAPI service layer</li>
-  <li>🔄 Celery background task processing</li>
-  <li>⚡ Redis for messaging and caching</li>
-  <li>🗄️ PostgreSQL for persistent storage</li>
-  <li>🐳 Docker-based deployment</li>
-  <li>🤖 Optional AI/LLM extraction layer</li>
-</ul>
-
-<b>🛠️ Tech Stack</b>
-
-<p>
-  <code>Python</code>
-  <code>Scrapy</code>
-  <code>Playwright</code>
-  <code>FastAPI</code>
-  <code>PostgreSQL</code>
-  <code>Redis</code>
-  <code>Celery</code>
-  <code>Docker</code>
-</p>
+**Tech Stack:** `Python` `Scrapy` `Playwright` `FastAPI` `Redis` `Celery` `PostgreSQL` `Docker`
 
 <p align="center">
   <a href="https://github.com/mohitsharma099999-tech/WebIntel-AI-Powered-Web-Intelligence-Monitoring-Platform">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github" alt="View WebIntel on GitHub" />
   </a>
 </p>
 
 </td>
-
-<!-- WORLD NEWS -->
-
 <td width="50%" valign="top">
 
 <h3 align="center">🌍 WORLD-NEWS</h3>
 
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
-    width="180"
-    alt="News and data animation"
-  />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="News processing animation" />
 </p>
 
-<p>
-<b>Automated World News Aggregation Platform</b>
-</p>
+**Automated News Aggregation**
 
-<p>
-A Python-based news aggregation project that automates the collection
-and processing of articles from online sources. The system focuses on
-web data extraction, content parsing, structured processing and
-organizing information into a usable news dataset.
-</p>
+A Python project focused on collecting and processing news content from online sources, extracting useful information and organizing it into structured data.
 
-<b>⚙️ Key Features</b>
+**Key Components**
+- Automated article collection
+- HTTP-based data retrieval
+- Content extraction and parsing
+- Data cleaning and organization
+- Repeatable data-processing workflows
 
-<ul>
-  <li>🌐 Automated article collection</li>
-  <li>📰 News source processing</li>
-  <li>🔎 Content extraction and parsing</li>
-  <li>🧹 Data cleaning and organization</li>
-  <li>⚡ Automated processing workflow</li>
-  <li>📊 Structured news data</li>
-  <li>🔄 Designed for repeatable data collection</li>
-</ul>
-
-<b>🛠️ Tech Stack</b>
-
-<p>
-  <code>Python</code>
-  <code>Web Scraping</code>
-  <code>HTTP</code>
-  <code>Automation</code>
-  <code>Data Processing</code>
-</p>
+**Tech Stack:** `Python` `HTTP` `Web Scraping` `Automation` `Data Processing`
 
 <p align="center">
   <a href="https://github.com/mohitsharma099999-tech/WORLD-NEWS">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github" alt="View WORLD-NEWS on GitHub" />
   </a>
 </p>
 
 </td>
-
 </tr>
-
 <tr>
-
-<!-- PROXYHUNTER -->
-
 <td width="50%" valign="top">
 
 <h3 align="center">🌐 ProxyHunter</h3>
 
 <p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212257466-450a5b2b-1e0c-4d2d-bd6f-7d7e7f3d6f6e.gif"
-    width="180"
-    alt="Networking animation"
-  />
+  <img src="https://user-images.githubusercontent.com/74038190/212257466-450a5b2b-1e0c-4d2d-bd6f-7d7e7f3d6f6e.gif" width="150" alt="Networking animation" />
 </p>
 
-<p>
-<b>Proxy Discovery & Validation Tool</b>
-</p>
+**Proxy Discovery & Validation Tool**
 
-<p>
-A Python command-line networking utility focused on discovering and
-validating publicly reachable proxy endpoints. The project automates
-proxy discovery and connectivity testing while providing a structured
-workflow for analyzing network endpoints.
-</p>
+A Python command-line utility for discovering and validating publicly reachable proxy endpoints.
 
-<b>⚙️ Key Features</b>
+**Key Components**
+- Proxy discovery and validation
+- Socket-based connectivity checks
+- HTTP and SOCKS proxy handling
+- Network endpoint testing
+- Command-line interface
 
-<ul>
-  <li>🔎 Proxy discovery</li>
-  <li>🌐 Network endpoint validation</li>
-  <li>🔌 Socket-based connectivity testing</li>
-  <li>⚡ Automated proxy checking</li>
-  <li>📡 HTTP proxy support</li>
-  <li>🧩 SOCKS proxy handling</li>
-  <li>💻 Command-line workflow</li>
-</ul>
-
-<b>🛠️ Tech Stack</b>
-
-<p>
-  <code>Python</code>
-  <code>Networking</code>
-  <code>Sockets</code>
-  <code>HTTP</code>
-  <code>SOCKS</code>
-  <code>CLI</code>
-</p>
+**Tech Stack:** `Python` `Sockets` `Networking` `HTTP` `SOCKS` `CLI`
 
 <p align="center">
   <a href="https://github.com/mohitsharma099999-tech/proxyhunter">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github" alt="View ProxyHunter on GitHub" />
   </a>
 </p>
 
 </td>
-
-<!-- FILE INTEGRITY MONITOR -->
-
 <td width="50%" valign="top">
 
 <h3 align="center">🛡️ File Integrity Monitor</h3>
 
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/3oKIPjzfv0sI2p7fK8/giphy.gif"
-    width="180"
-    alt="Cybersecurity monitoring animation"
-  />
+  <img src="https://media.giphy.com/media/3oKIPjzfv0sI2p7fK8/giphy.gif" width="150" alt="File monitoring animation" />
 </p>
 
-<p>
-<b>Defensive File Integrity Monitoring System</b>
-</p>
+**Linux-Friendly File Integrity Monitoring**
 
-<p>
-A Python-based defensive security tool that monitors files and detects
-integrity violations by comparing current cryptographic hashes against
-a trusted baseline. It can identify file modifications, additions and
-deletions and provides a practical foundation for filesystem security
-monitoring.
-</p>
+A defensive security utility that uses cryptographic hashes to compare files against a trusted baseline and identify changes to monitored files.
 
-<b>⚙️ Key Features</b>
+**Key Components**
+- SHA-256 file hashing
+- Baseline creation and comparison
+- File modification detection
+- New and deleted file detection
+- Filesystem monitoring workflows
 
-<ul>
-  <li>🔐 Cryptographic file hashing</li>
-  <li>📋 Baseline integrity tracking</li>
-  <li>📝 File modification detection</li>
-  <li>➕ New file detection</li>
-  <li>➖ Deleted file detection</li>
-  <li>📊 Integrity comparison</li>
-  <li>🐧 Linux-friendly security workflow</li>
-  <li>🛡️ Defensive security monitoring</li>
-</ul>
-
-<b>🛠️ Tech Stack</b>
-
-<p>
-  <code>Python</code>
-  <code>Linux</code>
-  <code>SHA-256</code>
-  <code>File Monitoring</code>
-  <code>Cybersecurity</code>
-  <code>Logging</code>
-</p>
+**Tech Stack:** `Python` `Linux` `SHA-256` `File Systems` `Logging`
 
 <p align="center">
   <a href="https://github.com/mohitsharma099999-tech/file-integrity-monitor">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github" alt="View File Integrity Monitor on GitHub" />
   </a>
 </p>
 
 </td>
-
 </tr>
 </table>
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img
-src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-width="100%"
-height="3px"
-alt="Animated divider"
-/>
-
-</div>
-
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvdTUzb29wNHMxY3VyZTJ4ZjBieTU3ODQ4dDQ4dTVobmVubXAzOCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="35">
-  <span style="color:#00d4ff;">Currently Learning</span>
-</h2>
+## 🧩 Problem-Solving & Competitive Programming
+
+I use algorithmic problem-solving to strengthen my ability to design efficient solutions, reason about edge cases, and understand the performance trade-offs of different approaches.
+
+- 🧠 Practicing Data Structures and Algorithms in C++
+- ⚡ Improving time and space complexity
+- 📊 Studying dynamic programming and graph algorithms
+- 📐 Applying mathematics and logical reasoning
+- 🔍 Comparing brute-force and optimized approaches
+- 🧪 Testing edge cases and validating correctness
+- 🏆 Working toward stronger competitive programming performance
 
 <div align="center">
 
-
-
-<br/>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvdTUzb29wNHMxY3VyZTJ4ZjBieTU3ODQ4dDQ4dTVobmVubXAzOCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
-
----
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="35">
-  <span style="color:#9b59b6;">2026 Goals</span>
-</h2>
-
-<div align="center">
-
-| 🎯 Goal | 📌 Status |
-|---------|-----------|
-| 🚀 Build production-ready web applications | 🟢 In Progress |
-| ⚛️ Become highly proficient in React.js | 🟢 In Progress |
-| ☕ Strengthen Java backend development | 🟢 In Progress |
-| 🧠 Master Data Structures & Algorithms | 🟢 In Progress |
-| 🔐 Improve application-security knowledge | 🟢 In Progress |
-| 🌎 Contribute to open-source projects | 🟡 Upcoming |
-| 💼 Grow as a Software Engineer | 🔵 Ongoing |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
-
----
-
-<h2 align="center">
- 
-  <span style="color:#ff9800;">My Development Philosophy</span>
-</h2>
-
-<div align="center">
-
-### 🌟 **Learn → Build → Test → Improve → Repeat** 🌟
-
-</div>
-
-> I believe the best way to learn software development is to build real projects, solve problems and continuously improve the code. Every project — big or small — teaches something new, and every bug is a chance to get better.
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
-
----
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35">
-  <span style="color:#00d4ff;">Let's Connect</span>
-</h2>
-
-<div align="center">
-
-<a href="">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://codeforces.com/">
+  <img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 </a>
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-Algorithm_Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced dynamic programming and graph algorithms
+- Efficient STL usage and C++ problem-solving patterns
+- Python automation and asynchronous programming
+- Linux internals and shell scripting
+- Operating systems, processes and memory fundamentals
+- Algorithm analysis and mathematical reasoning
+- Writing clean, testable and maintainable code
+
+---
+
+## 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Status |
+|---|---|
+| Strengthen advanced DSA and algorithm design | 🟢 In Progress |
+| Improve competitive programming performance | 🟢 In Progress |
+| Build useful Python and C++ projects | 🟢 In Progress |
+| Deepen Linux and operating systems knowledge | 🟢 In Progress |
+| Improve algorithm optimization and complexity analysis | 🟢 In Progress |
+| Strengthen core computer science fundamentals | 🟢 In Progress |
+| Contribute to open-source software | 🟡 Upcoming |
+| Prepare for Software Development Engineer roles | 🔵 Ongoing |
+
+</div>
+
+---
+
+## 📌 My Approach to Engineering
+
+<div align="center">
+
+### Understand → Analyze → Implement → Benchmark → Optimize
+
+</div>
+
+I aim to write code that is not only correct but also efficient, readable and maintainable. I value strong fundamentals, careful reasoning, continuous practice and learning how systems work beneath the surface.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohit-sharma-b58281435/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:mohitsharma099999@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/mohitsharma099999-tech">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://mohitsharma099999-tech.github.io/protfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://leetcode.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-
-<br/>
-
-💬 **Feel free to reach out — I'm always open to collaborating on interesting projects!**
+💬 **Open to software development opportunities, technical discussions and interesting projects.**
 
 </div>
 
@@ -526,12 +384,10 @@ alt="Animated divider"
 
 <div align="center">
 
-### 👨‍💻 **Thanks for visiting my profile!** 👨‍💻
+### 👨‍💻 Thanks for visiting my profile!
 
-**💻 Code. Learn. Build. Improve. 💻**
+**Code. Analyze. Optimize. Repeat.**
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Keep%20Building%20%26%20Learning&fontSize=28&fontColor=fff&animation=twinkling" width="100%" alt="Profile footer" />
 
 </div>
