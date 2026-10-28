@@ -1,17 +1,18 @@
  <div align="center">
   <img align="right" width="200" src="./assets/profile.png" alt="Mohit Sharma" />
 
-  <h1>Hi, I'm Mohit Sharma 👨‍💻</h1>
+  <h1>Hi, I'm Mohit Sharma 📈</h1>
+  <h3>Quantitative Researcher | Quant Trader | C++ & Python</h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Python+%26+C%2B%2B+Developer;Data+Structures+%26+Algorithms;Competitive+Programming;Algorithm+Optimization;Linux+%26+Systems+Programming;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Quantitative+Research+%26+Trading;Python+Market+Data+Analysis;Algorithmic+Trading+Strategies;Historical+Backtesting+%26+Validation;C%2B%2B+%26+Algorithm+Optimization;Probability+%26+Statistical+Modeling" alt="Quantitative Research Typing SVG" />
 
   <br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=mohitsharma099999-tech&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mohitsharma099999-tech?label=Followers&style=for-the-badge&color=181717" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Algorithms-00599C?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Focus-Quantitative%20Research-00599C?style=for-the-badge" alt="Quantitative Research" />
+  <img src="https://img.shields.io/badge/Markets-Global%20Equities%20%26%20Derivatives-00897B?style=for-the-badge" alt="Global Equity and Derivatives Markets" />
+  <img src="https://img.shields.io/badge/Environment-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 
   <br/><br/>
 
@@ -20,95 +21,166 @@
 
 <br clear="both"/>
 
-<img align="right" alt="Coding Animation" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" alt="Quantitative Research Animation" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-## 🚀 About Me
+## 📊 About Me
 
-I'm a **Python and C++ Developer** passionate about Data Structures and Algorithms, competitive programming, algorithm optimization, and Linux-based development.
+I'm a **Quantitative Researcher and Trader** with a background in engineering, programming, and algorithmic problem-solving. My work combines mathematical reasoning, Python-based market analysis, historical backtesting, and algorithm development to investigate systematic trading strategies.
 
-I enjoy breaking down complex problems, analyzing algorithmic trade-offs, and writing efficient, maintainable code. My approach combines mathematical reasoning, computational thinking, and practical programming to develop reliable software solutions.
+I'm particularly interested in Indian financial markets, quantitative trading, derivatives, and the engineering challenges involved in processing market data and evaluating trading strategies.
 
-- 💻 **Languages:** C++, Python, C, JavaScript and SQL
-- 🧠 **Core Focus:** Data Structures, Algorithms and Problem-Solving
-- ⚡ **Optimization:** Time complexity, space complexity and efficient algorithms
-- 🐧 **Environment:** Linux, Bash and command-line development
-- 📐 **Mathematics:** Discrete mathematics, logic and algorithmic reasoning
-- 🛠️ **Development:** Debugging, testing, scripting and automation
-- 🎯 **Career Goal:** Software Development Engineer opportunities
-- 🌱 **Mindset:** Learn deeply, build consistently and improve continuously
+My approach emphasizes research, reproducibility, execution costs, and risk-adjusted evaluation rather than relying on isolated profitable trades.
 
-## 🧠 What I Work On
+- 📈 **Research:** Systematic trading strategies and historical market analysis
+- 🐍 **Python:** Market-data processing, research workflows, and backtesting
+- 💻 **C++:** Algorithms, performance optimization, and systems programming
+- 📊 **Data:** Historical price data, volume, open interest, and options data
+- 📐 **Mathematics:** Probability, statistics, and quantitative problem-solving
+- 🧪 **Validation:** Historical testing, strategy evaluation, and robustness checks
+- ⚖️ **Risk:** Position sizing, drawdowns, exit rules, and risk-adjusted performance
+- 🐧 **Environment:** Linux, command-line tools, and development workflows
+
+My goal is to build a strong foundation in quantitative research and systematic trading while continuing to improve my programming, statistical reasoning, and market-microstructure knowledge.
+
+## 🔬 What I Work On
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 C++ Development
+### 📈 Quantitative Research
 
-- Data Structures and Algorithms
-- STL: vectors, maps, sets, stacks and queues
-- Sorting and searching algorithms
-- Recursion, backtracking and dynamic programming
-- Trees, graphs, BFS and DFS
-- Greedy algorithms and binary search
-- Complexity analysis and code optimization
-- Object-Oriented Programming
+- Systematic trading strategy research
+- Historical market-data analysis
+- Hypothesis development and testing
+- Statistical evaluation of trading signals
+- Strategy parameter analysis
+- Backtesting and validation
+- Performance and drawdown analysis
+- Research reproducibility
 
 </td>
 <td width="50%" valign="top">
 
-### 🐍 Python Development
+### 🐍 Python for Trading
 
-- Problem-solving and algorithm implementation
-- Automation and command-line tools
-- File handling and data processing
-- HTTP requests and API integration
-- Web scraping and structured data extraction
-- Modular, reusable Python code
-- Debugging, testing and exception handling
-- Scripting for Linux environments
+- Market-data ingestion and processing
+- Pandas and NumPy-based analysis
+- Historical backtesting workflows
+- Data cleaning and validation
+- Statistical calculations
+- Automated research scripts
+- Visualization of market behaviour
+- Processing large datasets
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🐧 Linux & Systems
+### 💻 C++ & Performance Engineering
 
-- Linux command-line workflows
-- Bash and shell scripting
-- Processes, files and permissions
-- Networking fundamentals
-- Environment and package management
-- Git-based development workflows
-- System utilities and automation
-- Resource-conscious development
+- Data Structures and Algorithms
+- STL and efficient data structures
+- Algorithm complexity analysis
+- Memory and resource efficiency
+- Performance profiling and optimization
+- Linux-based development
+- Multithreading fundamentals
+- Low-latency systems concepts
 
 </td>
 <td width="50%" valign="top">
 
-### 📐 Algorithmic Thinking
+### ⚖️ Trading Risk & Derivatives
 
-- Time and space complexity analysis
-- Mathematical problem-solving
-- Dynamic programming
-- Graph algorithms
-- Greedy strategies
-- Binary search on answers
-- Edge-case analysis
-- Performance profiling and optimization
+- Position sizing and exposure control
+- Stop-loss and profit-exit rules
+- Maximum drawdown analysis
+- Profit factor and trade statistics
+- Options Greeks: Delta, Gamma, Vega, and Rho
+- Open interest and volume analysis
+- Execution costs and slippage considerations
+- Strategy robustness and risk management
 
 </td>
 </tr>
 </table>
 
-## 🎯 My Development Philosophy
+## 📉 Quantitative Trading Research
 
-> First understand the problem, then design the algorithm, analyze its complexity, implement the solution, and optimize where necessary.
+My current focus is on **historical backtesting and strategy validation using market data**.
 
-I believe strong software engineering comes from understanding how and why a solution works—not just making the code compile.
+The objective is to evaluate whether a trading hypothesis remains useful after accounting for realistic trading conditions, rather than judging it only by its historical profit.
 
-**Analyze → Design → Implement → Test → Optimize**
+### Research workflow
+
+<div align="center">
+
+**Market Data → Data Validation → Signal Research → Backtesting → Risk Analysis → Strategy Validation**
+
+</div>
+
+| Research area | Objective |
+|---|---|
+| Historical data | Analyze price and other available market variables |
+| Data processing | Clean, structure, and validate historical observations |
+| Strategy testing | Evaluate entry and exit rules against historical data |
+| Performance analysis | Examine returns, drawdowns, and profit factor |
+| Risk management | Evaluate exposure, position sizing, and exit conditions |
+| Execution analysis | Measure order-execution latency where measurements are available |
+| Robustness | Test assumptions, transaction costs, and sensitivity to parameters |
+
+### Research principles
+
+- Avoid look-ahead bias and data leakage.
+- Separate strategy development from out-of-sample evaluation.
+- Include brokerage, taxes, slippage, and other relevant transaction costs.
+- Evaluate drawdowns and risk-adjusted performance, not just gross returns.
+- Test whether results are sensitive to parameter changes and market regimes.
+- Distinguish historical simulation results from live trading performance.
+
+*Historical performance does not guarantee future results.*
+
+---
+
+## 🧪 Featured Project: Quantitative Trading Research
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Project-Quantitative%20Trading%20Research-00599C?style=for-the-badge" alt="Quantitative Trading Research" />
+<img src="https://img.shields.io/badge/Stage-Historical%20Backtesting-00897B?style=for-the-badge" alt="Historical Backtesting" />
+<img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+</div>
+
+I'm developing a Python-based quantitative trading research workflow for analyzing historical market data and evaluating systematic strategies.
+
+The project focuses on data processing, research methodology, strategy backtesting, risk controls, and performance analysis. It is intended to support evidence-based strategy evaluation rather than discretionary decisions based on individual trades.
+
+### Key components
+
+- Historical market-data ingestion and preprocessing
+- Large-scale record processing
+- Price, volume, and available derivatives-data analysis
+- Strategy entry and exit logic
+- Historical backtesting and validation
+- Profit factor, drawdown, and trade-performance analysis
+- Risk-management rules and exit thresholds
+- Execution-latency measurement where applicable
+- Research visualization and performance monitoring
+
+### Technology
+
+`Python` `Pandas` `NumPy` `Statistical Analysis` `Historical Data` `Backtesting` `Linux`
+
+### Current stage
+
+**Historical backtesting and strategy validation.**
+
+The research workflow is designed to process large historical datasets, with millions of records handled in the analysis workflow. Execution-latency measurements are treated separately from simulated backtest performance.
+
+Live execution, profitability, and production-level HFT performance should not be inferred from historical research alone.
 
 ---
 
@@ -116,213 +188,98 @@ I believe strong software engineering comes from understanding how and why a sol
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Programming & Performance
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧠 Data Structures & Algorithms
-
-![DSA](https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-6A5ACD?style=for-the-badge)
-![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-8A2BE2?style=for-the-badge)
-![Graph Algorithms](https://img.shields.io/badge/Graph_Algorithms-008080?style=for-the-badge)
-![Complexity Analysis](https://img.shields.io/badge/Complexity_Analysis-FF8C00?style=for-the-badge)
-![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-2E8B57?style=for-the-badge)
-
-### 🐧 Linux & Development Tools
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 🐍 Python Ecosystem
+### 📊 Data & Research
 
-![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)
-![Asyncio](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black)
 
-### 📚 Computer Science Fundamentals
+### 🧠 Quantitative Foundations
 
-![OOP](https://img.shields.io/badge/Object_Oriented_Programming-FF6B6B?style=for-the-badge)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-4682B4?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-20B2AA?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-6A5ACD?style=for-the-badge)
-![Discrete Mathematics](https://img.shields.io/badge/Discrete_Mathematics-FF9800?style=for-the-badge)
+![Probability](https://img.shields.io/badge/Probability-6A5ACD?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistical%20Analysis-00897B?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-00599C?style=for-the-badge)
+![Backtesting](https://img.shields.io/badge/Backtesting-FF8C00?style=for-the-badge)
+![Risk Management](https://img.shields.io/badge/Risk%20Management-B22222?style=for-the-badge)
 
 </div>
 
----
+## 🧮 Mathematical & Statistical Interests
 
-## 🚀 Featured Projects
+My quantitative interests include the mathematical foundations required to develop, test, and understand systematic trading strategies.
 
-<div align="center">
+- **Probability:** Random variables, conditional probability, distributions, and expectation
+- **Statistics:** Estimation, hypothesis testing, and statistical inference
+- **Time-series analysis:** Returns, volatility, dependence, and market regimes
+- **Optimization:** Parameter selection and objective-function design
+- **Monte Carlo methods:** Simulation and probabilistic modelling
+- **Derivatives:** Options pricing concepts and sensitivity measures
+- **Risk analysis:** Drawdowns, return distributions, and tail-risk considerations
+- **Algorithms:** Efficient computation and complexity analysis
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🧠 WebIntel</h3>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760734-69f2a2f8-3b0e-4e3b-8b7a-8c3f7e8d8c5e.gif" width="150" alt="WebIntel animation" />
-</p>
-
-**AI-Powered Web Intelligence & Monitoring Platform**
-
-A Python-based platform designed to collect, process, monitor and analyze web data using crawling, browser automation, background jobs and persistent storage.
-
-**Key Components**
-- Automated web crawling and extraction
-- Browser automation with Playwright
-- FastAPI service layer
-- Asynchronous task processing
-- Redis and PostgreSQL integration
-- Docker-based deployment
-
-**Tech Stack:** `Python` `Scrapy` `Playwright` `FastAPI` `Redis` `Celery` `PostgreSQL` `Docker`
-
-<p align="center">
-  <a href="https://github.com/mohitsharma099999-tech/WebIntel-AI-Powered-Web-Intelligence-Monitoring-Platform">
-    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github" alt="View WebIntel on GitHub" />
-  </a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🌍 WORLD-NEWS</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="News processing animation" />
-</p>
-
-**Automated News Aggregation**
-
-A Python project focused on collecting and processing news content from online sources, extracting useful information and organizing it into structured data.
-
-**Key Components**
-- Automated article collection
-- HTTP-based data retrieval
-- Content extraction and parsing
-- Data cleaning and organization
-- Repeatable data-processing workflows
-
-**Tech Stack:** `Python` `HTTP` `Web Scraping` `Automation` `Data Processing`
-
-<p align="center">
-  <a href="https://github.com/mohitsharma099999-tech/WORLD-NEWS">
-    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github" alt="View WORLD-NEWS on GitHub" />
-  </a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🌐 ProxyHunter</h3>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257466-450a5b2b-1e0c-4d2d-bd6f-7d7e7f3d6f6e.gif" width="150" alt="Networking animation" />
-</p>
-
-**Proxy Discovery & Validation Tool**
-
-A Python command-line utility for discovering and validating publicly reachable proxy endpoints.
-
-**Key Components**
-- Proxy discovery and validation
-- Socket-based connectivity checks
-- HTTP and SOCKS proxy handling
-- Network endpoint testing
-- Command-line interface
-
-**Tech Stack:** `Python` `Sockets` `Networking` `HTTP` `SOCKS` `CLI`
-
-<p align="center">
-  <a href="https://github.com/mohitsharma099999-tech/proxyhunter">
-    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github" alt="View ProxyHunter on GitHub" />
-  </a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🛡️ File Integrity Monitor</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPjzfv0sI2p7fK8/giphy.gif" width="150" alt="File monitoring animation" />
-</p>
-
-**Linux-Friendly File Integrity Monitoring**
-
-A defensive security utility that uses cryptographic hashes to compare files against a trusted baseline and identify changes to monitored files.
-
-**Key Components**
-- SHA-256 file hashing
-- Baseline creation and comparison
-- File modification detection
-- New and deleted file detection
-- Filesystem monitoring workflows
-
-**Tech Stack:** `Python` `Linux` `SHA-256` `File Systems` `Logging`
-
-<p align="center">
-  <a href="https://github.com/mohitsharma099999-tech/file-integrity-monitor">
-    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github" alt="View File Integrity Monitor on GitHub" />
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
-
-</div>
+I aim to connect mathematical theory with empirical research and carefully validated implementations.
 
 ---
 
-## 🧩 Problem-Solving & Competitive Programming
+## ⚡ Quantitative Research vs. High-Frequency Trading
 
-I use algorithmic problem-solving to strengthen my ability to design efficient solutions, reason about edge cases, and understand the performance trade-offs of different approaches.
+I'm interested in both quantitative strategy research and the engineering foundations of low-latency trading systems.
 
-- 🧠 Practicing Data Structures and Algorithms in C++
-- ⚡ Improving time and space complexity
-- 📊 Studying dynamic programming and graph algorithms
-- 📐 Applying mathematics and logical reasoning
-- 🔍 Comparing brute-force and optimized approaches
-- 🧪 Testing edge cases and validating correctness
-- 🏆 Working toward stronger competitive programming performance
+| Area | Focus |
+|---|---|
+| Quantitative research | Formulating and testing trading hypotheses |
+| Algorithmic trading | Automating strategy rules and order workflows |
+| Performance engineering | Efficient data processing and algorithm design |
+| Market microstructure | Order books, spreads, liquidity, and price formation |
+| Execution analysis | Latency, slippage, and transaction costs |
+| Risk controls | Exposure limits, drawdown controls, and execution safeguards |
+
+My focus is on developing these capabilities through practical research, programming, and systematic evaluation. I distinguish low-latency programming skills from demonstrated HFT infrastructure or live trading results.
+
+---
+
+## 🧠 Problem-Solving & Competitive Programming
+
+Competitive programming helps me strengthen the algorithmic thinking needed for quantitative development and performance-sensitive systems.
+
+- Data Structures and Algorithms in C++
+- Dynamic programming and graph algorithms
+- Probability and mathematical reasoning
+- Time and space complexity analysis
+- Efficient STL usage and implementation
+- Edge-case analysis and correctness
+- Algorithm optimization and benchmarking
 
 <div align="center">
 
-<a href="https://codeforces.com/">
-  <img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+<a href="https://codeforces.com/profile/mkt679099">
+  <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 </a>
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Algorithm_Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+<a href="#">
+  <img src="https://img.shields.io/badge/LeetCode-Algorithm%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
-- Advanced dynamic programming and graph algorithms
-- Efficient STL usage and C++ problem-solving patterns
-- Python automation and asynchronous programming
-- Linux internals and shell scripting
-- Operating systems, processes and memory fundamentals
-- Algorithm analysis and mathematical reasoning
-- Writing clean, testable and maintainable code
+- Probability and statistics for quantitative finance
+- Quantitative strategy research and backtesting methodology
+- Statistical validation and out-of-sample testing
+- Risk-adjusted performance evaluation
+- Options Greeks and derivatives-market behaviour
+- C++ performance optimization and systems programming
+- Linux internals and multithreading
+- Market microstructure and execution mechanics
 
 ---
 
@@ -332,28 +289,32 @@ I use algorithmic problem-solving to strengthen my ability to design efficient s
 
 | Goal | Status |
 |---|---|
-| Strengthen advanced DSA and algorithm design | 🟢 In Progress |
-| Improve competitive programming performance | 🟢 In Progress |
-| Build useful Python and C++ projects | 🟢 In Progress |
-| Deepen Linux and operating systems knowledge | 🟢 In Progress |
-| Improve algorithm optimization and complexity analysis | 🟢 In Progress |
-| Strengthen core computer science fundamentals | 🟢 In Progress |
-| Contribute to open-source software | 🟡 Upcoming |
-| Prepare for Software Development Engineer roles | 🔵 Ongoing |
+| Improve probability and statistical foundations | 🟢 In Progress |
+| Develop rigorous historical backtesting workflows | 🟢 In Progress |
+| Improve strategy validation and robustness testing | 🟢 In Progress |
+| Deepen C++ and Python performance engineering | 🟢 In Progress |
+| Strengthen risk and derivatives analysis | 🟢 In Progress |
+| Study market microstructure and execution | 🟡 Developing |
+| Build a documented quantitative research portfolio | 🟢 In Progress |
+| Explore quantitative researcher and trading opportunities | 🔵 Ongoing |
 
 </div>
 
 ---
 
-## 📌 My Approach to Engineering
+## 📌 My Research Philosophy
 
 <div align="center">
 
-### Understand → Analyze → Implement → Benchmark → Optimize
+### Hypothesize → Model → Test → Validate → Measure Risk → Improve
 
 </div>
 
-I aim to write code that is not only correct but also efficient, readable and maintainable. I value strong fundamentals, careful reasoning, continuous practice and learning how systems work beneath the surface.
+A strategy is only as useful as the evidence supporting it.
+
+I value mathematical reasoning, reliable data, reproducible experiments, realistic transaction-cost assumptions, and transparent risk analysis. My goal is to understand why a strategy may work, when it may fail, and whether the evidence supports using it beyond the historical sample.
+
+**Research first. Validate rigorously. Manage risk. Optimize carefully.**
 
 ---
 
@@ -365,18 +326,18 @@ I aim to write code that is not only correct but also efficient, readable and ma
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:mohitsharma099999@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/mohitsharma099999-tech">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Research-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://mohitsharma099999-tech.github.io/protfolio/">
+<a href="#">
   <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
 <br/><br/>
 
-💬 **Open to software development opportunities, technical discussions and interesting projects.**
+**Open to quantitative research, algorithmic trading, C++/Python development, and discussions on systematic trading.**
 
 </div>
 
@@ -384,10 +345,10 @@ I aim to write code that is not only correct but also efficient, readable and ma
 
 <div align="center">
 
-### 👨‍💻 Thanks for visiting my profile!
+### 📈 Thanks for visiting my profile!
 
-**Code. Analyze. Optimize. Repeat.**
+**Think Quantitatively. Test Systematically. Manage Risk.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Keep%20Building%20%26%20Learning&fontSize=28&fontColor=fff&animation=twinkling" width="100%" alt="Profile footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Research%20%7C%20Validate%20%7C%20Optimize&fontSize=26&fontColor=fff&animation=twinkling" width="100%" alt="Quantitative Research Profile Footer" />
 
 </div>
